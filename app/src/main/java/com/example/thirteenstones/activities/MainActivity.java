@@ -201,7 +201,7 @@ public class MainActivity extends AppCompatActivity {
         dismissSnackBarIfShown();
         showInfoDialog(MainActivity.this, "About 13 Stones",
                 "A quick two-player game; have fun!\n" +
-                        "\nAndroid game by SA.\nmintedtech@gmail.com");
+                        "\nCode-along for Android Application and Development course");
     }
 
     private void showSettings() {

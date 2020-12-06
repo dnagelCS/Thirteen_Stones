@@ -42,7 +42,7 @@
     <string name="title_activity_statistics">Statistics</string>
 
     <!-- Strings used for Statistics Activity -->
-    <string name="player_number">Player Number</string>
-    <string name="games_won">Games Won</string>
-    <string name="percent_won">Percent Won</string>
+    <string name="player_number">Player\nNumber</string>
+    <string name="games_won">Games\nWon</string>
+    <string name="percent_won">Percent\nWon</string>
 </resources>

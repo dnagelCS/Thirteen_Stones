@@ -22,4 +22,6 @@ This application can be run in a day or night mode as well as portrait or landsc
 # Landscape mode of 13 Stones Game:  
 ![Alt](screenshots/Mod7_landscape.png "Landscape mode of 13 Stones Game")  
 # Scoreboard of 13 Stones Game:  
-![Alt](screenshots/Mod7_13stonesStatistics.png "Scoreboard of 13 Stones Game")
+![Alt](screenshots/Mod11_TS_Statistics.png "Scoreboard of 13 Stones Game")
+# Settings in 13 Stones Game:
+![Alt](screenshots/Mod11_TS_Settings.png "Scoreboard of 13 Stones Game")
